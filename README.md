@@ -1,0 +1,1 @@
+This repository provides the official PyTorch implementation and reproduction for the paper titled "SPRec: Leveraging Self-Play to Debias Preference Alignment for Large Language Model-based Recommendations"
